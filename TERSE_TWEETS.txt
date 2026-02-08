@@ -1,0 +1,686 @@
+Sat Aug 25 03:31:48 +0000 2018
+@GarrettPetersen 1934: SEC was created *and* there was no Nobel Prize for physics ... 🙃
+https://t.co/pPdjEWmoqG
+---
+
+Fri Jul 26 05:49:53 +0000 2019
+@hypatiadotca @peterseibel Humans weren't designed to exchange ideas this rapidly!
+---
+
+Wed Dec 09 06:13:33 +0000 2020
+@pgor I find myself implementing diagnostics to help shape the solution. That way the complex stuff is hopefully limited to build or compile time, and the runtime checks can be terse, and thus, fast. C++ may have irreparably warped me.
+---
+
+Thu Jun 17 05:10:49 +0000 2021
+@madeofmistak3 @KyleGilbertkyle @GarrettPetersen Yeah, infinite lasagna is a money printer. Even if you can't sell it, you can stop spending money on food.
+---
+
+Sat Dec 03 10:00:05 +0000 2022
+Terse Notepad 0.0.6 is out!
+
+https://t.co/LhZ7r8hTSR https://t.co/AN46sgdgq7
+---
+
+Sun Dec 04 18:07:06 +0000 2022
+Terse Notepad 0.0.8 is out!
+
+The tree view now updates live - new pages appear in the hierarchy once the first line of text in a new node has been added.
+
+https://t.co/acZDtuEbBj
+---
+
+Sun Dec 04 21:32:45 +0000 2022
+Terse Notepad 0.0.9 - real-time tree view!
+
+https://t.co/ccrqUH71u2
+---
+
+Mon Dec 05 04:48:15 +0000 2022
+Terse Notepad 0.1.0 is out - scrollbars are now operational.
+
+https://t.co/YFGfc5QV0a
+
+Next week I plan to introduce more dimensions, along with unit test coverage.
+---
+
+Tue Dec 06 05:19:04 +0000 2022
+I started working on unit tests for Terse Notepad today. Took some convincing to get VS2022 and xUnit to work together... https://t.co/HNU4B1mAjA
+---
+
+Wed Dec 07 07:08:06 +0000 2022
+Terse 0.1.2 - Performance Improvements and Dark Mode!
+
+https://t.co/mVaWEnEDvO https://t.co/QnB9lemtaV
+---
+
+Thu Dec 08 06:56:22 +0000 2022
+Terse Notepad 0.1.3 is out - now with (optional) VIM Integration!
+
+I also spent a little bit of time documenting the preferences and fixed an edit bug that prevented you from editing settings in Terse directly.
+
+https://t.co/VclsD12x3r https://t.co/mnQ0RcQjRl
+---
+
+Thu Dec 08 07:07:29 +0000 2022
+So I've been thinking a lot about text structure lately.
+
+Does this make sense to you? The image behind Notepad is Terse Notepad - which understands how to split text in additional dimensions.
+
+What's confusing about the format? (Other than old ASCII control codes). https://t.co/FxbuMdYhr2
+---
+
+Fri Dec 09 01:39:54 +0000 2022
+Terse Notepad 0.1.4 is out!
+
+https://t.co/XiwvGpzXna
+
+This version gives your SCROLL LOCK key a purpose in life again! https://t.co/98ZWDdReja
+---
+
+Sat Dec 10 04:03:58 +0000 2022
+Terse Notepad v0.1.5
+
+This is mostly a bugfix build - I'm still tracking down editor weirdness before scaling to the book dimension. https://t.co/N339lVMEcL
+---
+
+Sat Dec 10 07:10:45 +0000 2022
+Once I finish Terse Notepad, I'll start on this roadmap.
+
+* TRSH: The Terse-Native Shell - C
+* Web Terse: Single-file Web App - JS
+* Flow Note: Infinite Scrolls - C++
+* Dream Note: All Your Notes Are Belong To Us - Rust
+---
+
+Sat Dec 10 07:11:46 +0000 2022
+Terse Notepad is trs.exe, so the Terse Shell (of course) has to be called TRSH (Trash)!
+---
+
+Sat Dec 10 13:17:26 +0000 2022
+@interstar @codexeditor That's where Terse Notepad is currently.
+
+Benefits:
+* We now have a way to model complex data in text
+* Web pages
+* Source trees
+* Related files
+* Wikis
+* A series of tweets
+* Performance: far fewer OS calls for a given dataset
+* Multi-file copy/paste
+* etc.
+
+3/3
+---
+
+Sat Dec 10 17:32:00 +0000 2022
+"Please summarize your answers, including question number, agreement value, and a terse summary, in a format suitable for 10 lines of text no longer than 60 characters per line."
+---
+
+Sat Dec 10 18:12:21 +0000 2022
+@blows_joes_toes You can explore the idea with Terse Notepad (linked in my bio). I have 5D text implemented so far, with line breaks (\n), scroll breaks (\x17), section breaks (\x18), and chapter breaks (\x19). The dimension names are unimportant.
+
+Note: It's an early alpha (0.1.5).
+---
+
+Sun Dec 11 02:04:22 +0000 2022
+Terse Notepad 0.1.6 it out! Recent files now behaves like every other app in the world. I also added some editors to the Roadmap.
+
+* TRSH: Shell
+* Web Terse: JS
+* Flownote: C++
+* Dreamnote: Rust
+
+https://t.co/cA6KpKiVgP https://t.co/UW9LuCJOng
+---
+
+Sun Dec 11 06:21:36 +0000 2022
+@_wilfredh I prefer terse forms for input, with automatic expansion on save.
+---
+
+Sun Dec 11 08:59:45 +0000 2022
+I decided to start working on a unix-style command to make it easy to convert existing directory trees into Terse files.
+
+The command will be named: tersify. It will feel like tar, but with very few options.
+
+https://t.co/m5RglyU05R
+---
+
+Sun Dec 11 14:07:58 +0000 2022
+@alanlaidlaw @codexeditor I'll post a tweet storm from the header file that I wrote last night for tersify. You can dig into the concept more with terse notepad.
+
+https://t.co/2zEXazVEHr
+---
+
+Mon Dec 12 05:53:24 +0000 2022
+Terse: Multi-Dimensional Text
+
+Traditional text files are great. You can store an entire page of text with zero overhead. A typical page is 2-4 KB in size (80 x 50 = 4,000). There's no extra formatting or markup.
+
+Text is the OG WYSIWYG format.
+
+1/27
+---
+
+Mon Dec 12 05:53:54 +0000 2022
+Let's review what text files are from first-principles:
+
+* Text = a serialized stream of characters (1D)
+* Page = an array of lines (2D)
+
+What might text in higher dimensions look like?
+How would we make sense of it?
+
+These are the questions that lead me to develop Terse.
+
+2/27
+---
+
+Mon Dec 12 06:05:04 +0000 2022
+The AGI Era
+
+Terse Text is designed for 2040 and beyond. It is assumed that humanity will be using systems that routinely store petabytes of data and that we will have brain interfaces which allow us to interact with our computers in simulated hyperspace.
+
+17/27
+---
+
+Mon Dec 12 06:07:14 +0000 2022
+This gives us access to a text space of 50 million characters. If we break this up into manageable chunks, we will need an interface that is 100 x 100 x 100 x 50 characters.
+
+This corresponds to the first 4 dimensions of Terse (Columns, Lines, Scrolls, and Sections).
+
+24/27
+---
+
+Mon Dec 12 06:07:48 +0000 2022
+But Terse doesn't stop there.
+
+I intend for this format to be the text format for the AGI age. So I turned the dial up to 11. This provides enough flexibility to store the entire Internet in a file*. At least the 2022 Internet, anyway.
+
+  100^11 = 10 million petabytes
+
+25/27
+---
+
+Mon Dec 12 06:08:17 +0000 2022
+File Format Design
+
+Terse Text (.t) is a shell for existing text formats. The format is intentionally vague - leaving users the freedom to tinker.
+
+I'm proposing that historic ASCII control codes can be retired and re-purposed for this improvement.
+
+26/27
+---
+
+Mon Dec 12 06:08:56 +0000 2022
+Wait, isn't this just a theory? Nope!
+
+Terse Notepad is a reference editor for Terse Text. Give it a try!
+
+Implemented: 5D text (Scrolls, Sections, and Chapters)
+Coming Soon: 6D through 11D text
+
+https://t.co/h1eVjfhzSM
+
+27/27
+---
+
+Tue Dec 13 06:04:36 +0000 2022
+Tersify is taking shape! For v0.0.2, you can import files as scrolls. This will make it easier to test Terse Notepad!
+
+Create a new Terse file:
+./trsi new.t &lt;file1&gt; &lt;file2&gt; ... https://t.co/H1kBZata8P
+---
+
+Wed Dec 14 02:37:31 +0000 2022
+Given what I'm trying to do with Terse, I think I've also contracted this virus. :D https://t.co/6FUgF7s8xU
+---
+
+Wed Dec 14 05:57:15 +0000 2022
+Terse Notepad 0.1.7 is out! I fixed some minor bugs with loading Tersify-produced files. Below is a screenshot of loading a few books from Project Gutenberg.
+
+PS &gt; trsi new.t -v *.txt
+
+https://t.co/En62HbtSx9 https://t.co/906EhjcmEP
+---
+
+Thu Dec 15 02:13:50 +0000 2022
+Terse Notepad 0.1.8 is out!
+
+https://t.co/kP6Fky4JPK
+
+I fixed some buggy behavior with the tree view for new node and delete node actions. I have one bug left to track down before I start scaling to higher dimensions! https://t.co/rCkIYFcbtZ
+---
+
+Thu Dec 15 05:27:54 +0000 2022
+Terse Notepad 0.1.9
+
+https://t.co/E6ibb7zOkP
+
+I moved tree node creation into TerseModel, but I'm still tracking down some editor state bugs with node 1-1-1. I hope to move to 0.2.0 this weekend, with 3 more dimensions.
+---
+
+Mon Dec 19 07:00:22 +0000 2022
+Terse Notepad 0.2.0 is out - now with 11 dimensions!
+
+https://t.co/0St0zlfIpL https://t.co/ZkUKvW0sh1
+---
+
+Tue Dec 20 04:06:09 +0000 2022
+Terse Notepad v0.2.1 is out! I fixed a few UX issues with the Tree View. I'm off to explore 11-dimensional terse-space now!
+
+https://t.co/isZQVTznQB https://t.co/2ROIOMVR4G
+---
+
+Wed Dec 21 02:22:15 +0000 2022
+@alexisgallagher +1 The windows app is just a proof of concept. In order for Terse to be (eventually) successful, I will have to port support for multi-dimensional text to ... every, single, platform that supports text today.
+---
+
+Wed Dec 28 04:37:36 +0000 2022
+@s_r_constantin I have a reference editor with support for 11 dimensions up here: https://t.co/1xortO2Ius
+
+I'm slowly working on an ecosystem for terse text (in my spare time). It's like a tarball or zip file, but without nearly as much overhead (practically none).
+---
+
+Fri Dec 30 04:41:35 +0000 2022
+I realized the other day that I forgot to publish my unit tests for Terse Notepad.
+
+https://t.co/iumZ2Qdh4S https://t.co/Pel9BxsuRY
+---
+
+Fri Dec 30 04:53:06 +0000 2022
+Playing around with https://t.co/m9UVhvPzE3 and Terse Notepad...
+
+The raw byte stream on the left. Terse Notepad on the right.
+
+@mattgodbolt - how do you store parallel output files currently? https://t.co/wR6lHezl2R
+---
+
+Sun Jan 01 03:43:03 +0000 2023
+@GarrettPetersen @madeofmistak3 Kermit Atreides. https://t.co/ap8URWrUeC
+---
+
+Sun Feb 05 06:40:42 +0000 2023
+Information is multi-dimensional.
+
+ ( •_•)                            (•_• )
+   ( ง )ง                          ୧( ୧ )
+   /︶\                          TERSE
+  JSON                                  
+
+Never underestimate the power of simple rules.
+---
+
+Tue Jul 25 11:56:45 +0000 2023
+@bons_vincent @IntuitMachine The first step is leveling up text. It's too hard to express complex ideas in plain text. I'm iterating on a multi-dimensional text format (terse text) that will make sharing fully formed ideas easy (no DB or complex parsers needed).
+---
+
+Wed Jul 26 03:24:21 +0000 2023
+@patlouiswilkie @bons_vincent @IntuitMachine Yes, the person who wrote the terse decides the organization. There's no predetermined structure, and that's the point.
+
+It should be trivial to toss 3 html files, an example dataset, and the source code for an analyzer into your clipboard, but it isn't (yet).
+---
+
+Sat Jul 29 03:10:58 +0000 2023
+Terse Notepad v0.2.3 is out!
+https://t.co/XBdByvIYnF
+
+This small feature release adds a color customization palette using new settings in Config V5 - Color1 through Color4. You can use any HTML colors you like (word or RGB code). https://t.co/8PJ8rWXzXF
+---
+
+Sun Aug 06 02:29:33 +0000 2023
+.t2ml = Terse Text Markup Language
+
+In which you use Terse to construct very large HTML documents with in-terse-space links.
+
+Which link format do you like best? The exclamation point denotes an in-terse-space link.
+---
+
+Sun Aug 06 03:19:18 +0000 2023
+Here's an example framing of the Odyssey in terse text.
+
+The hierarchy is free* - both files are 690 KB - but the Terse file is easier to navigate and annotate. Fewer than 60 additional bytes are needed for this improvement. https://t.co/N0JWTWDogu
+---
+
+Sun Aug 06 03:34:09 +0000 2023
+WYSIWII: what you see is what it is.
+
+Multi-dimensional text (terse) is the first implementation of higher-order text!
+---
+
+Sun Aug 06 03:36:21 +0000 2023
+The killer feature of terse is not being required to name things in order to share them. File systems, zip files, tar files, etc. all impose that restriction upon you.
+
+Terse liberates your neurons from the Things Must Be Named jail!
+---
+
+Mon Aug 07 03:02:00 +0000 2023
+I dream about connecting neurons. Terse is a step in that direction.
+
+* 1 neuron has 10,000 synapses - enough to encode 1.25 KB of data in transit (typical page size...hmm)
+* Neurons cycle at 100 Hz
+* 100 billion neurons per brain
+
+Net result: 12.5 PB/sec raw neural bandwidth https://t.co/wRhNlbnzBI
+---
+
+Sat Aug 12 17:34:41 +0000 2023
+Join the #TerseVerse with me!
+
+Step 1: Download Terse Notepad
+Step 2: Clone terse-verse
+Step 3: Profit!
+
+This experiment demonstrates how to embed CSV files within terse dimensions (*everything* is in terseverse.t).
+
+Terse Notepad: https://t.co/2zEXazVEHr
+
+https://t.co/3xhl8Rd7Jk https://t.co/1lqm4eShHu
+---
+
+Sat Aug 12 20:42:43 +0000 2023
+A rubik's cube state requires 65.2 to 73.3 bits (depending upon whether or not you orient it consistently and/or allow impossible states). All cubes can be solved in 26 moves or less...and literally only one position requires 26 moves!
+
+#TerseVerse
+https://t.co/vFsd264ydJ
+---
+
+Sat Aug 12 21:02:47 +0000 2023
+Using a format with 5x expansion, we get this grid (360 bits vs the optimal 65.2 bits). All 4-move solutions will thus fit into a Terse space of at most 4 * 45 * 11205 = 1.92 MB.
+
+In this notation, we record the position and orientation of each corner and edge sub-cube. https://t.co/faSShOo6tL
+---
+
+Sat Aug 12 23:09:46 +0000 2023
+OK, so here's a worked example with spaces carved out for the first 12 possible moves.
+
+We first identify the root nodes of the terse. From there, we can build move lists of interest - and find or memorize new/innovative chains easily.
+
+https://t.co/FNLsvOBcbW https://t.co/XzCQmuPHfr
+---
+
+Tue Aug 15 03:29:33 +0000 2023
+I added `-expand` and `-contract` options to terse-string.exe tonight. You can now experiment with sliding text up or down the dimension space.
+
+You could envision requesting feedback from thousands of people and collating results using this sort of transform. https://t.co/MiEFIxVUvy
+---
+
+Thu Aug 17 05:52:23 +0000 2023
+Most chromosomes are ~16 MB in size.
+Most genes are ~12 KB in size.
+There are at most 3,000 genes on any chromosome.
+
+Thus, we only need 3 terse dimensions for DNA!
+
+1. Chromosome Number (1-23)
+2. Gene Family (1-20)
+3. Gene Name (1-150)
+
+Each scroll will average 5 to 30 KB.
+---
+
+Sat Aug 26 02:25:44 +0000 2023
+@eigenbom Not just annotations, but full blown expansions. One of the things I plan on doing with terse text is implementing multiple levels of abstraction within one file: js, C++, assembly, etc. - allowing you to explore and revise at whatever layer makes sense.
+---
+
+Sat Sep 02 05:31:48 +0000 2023
+I built a web interface for Terse Text this evening. You can now generate and explore terse text using Chrome!
+
+https://t.co/kWRVtgK4AE
+
+The editor is a single-page HTML file. The F1-F10 keys change the behavior of your &lt;ENTER&gt; key. A live preview renders on the right. https://t.co/RITMBpMOR9
+---
+
+Sat Sep 02 05:56:15 +0000 2023
+Terse text extends line breaks to 11 dimensions:
+
+* Line (2D)
+* Scroll (3D)
+* Section (4D)
+* Chapter (5D)
+* Book (6D)
+* Volume (7D)
+* Collection (8D)
+* Series (9D)
+* Shelf (10D)
+* Library (11D)
+
+Within each scroll, formatting and content is totally up to you - like a zip archive.
+---
+
+Sat Sep 02 18:53:08 +0000 2023
+Currently running an experiment to see how quickly I can compile gcc with terse optimizations.
+
+Step 1: Re-compile gcc to support terse text*
+Step 2: Encode gcc into one monolithic terse source file
+Step 3: profit (?)
+
+I'll report back later.
+---
+
+Sat Sep 02 20:00:33 +0000 2023
+I created /r/terseverse today. The key codes:
+https://t.co/AALEmGmYdf
+---
+
+Sat Sep 02 20:58:34 +0000 2023
+@GarrettPetersen Let me know if you find the BFG or quad damage spawn points.
+---
+
+Sat Sep 02 21:20:15 +0000 2023
+I'm running cmake 27 on a recent laptop with an SSD, and using Ubuntu 22.04 LTS on Windows 11.
+
+There's no progress bar or indication of how long this is going to take - just some terse 'targeting' steps... https://t.co/yNtgt8hF6a
+---
+
+Sun Sep 03 17:03:33 +0000 2023
+Why is #TerseText is better than .tar or .zip?
+
+* Directly Editable (no metadata!)
+* Smaller than a zip file when compressed
+* Easy to Understand
+
+https://t.co/JfOFnyPNiK
+---
+
+Sun Sep 03 17:25:39 +0000 2023
+Hmm, my brain wants to connect this problem to terse text somehow. I can't quite put my finger on it yet.
+
+The nice thing about stack frames and memory allocation is that you get stable memory addresses. But those constructs evolved when we had 1 KB of RAM. We now have gigabytes. https://t.co/5IPN556Dy1
+---
+
+Sun Sep 03 18:05:26 +0000 2023
+That nets us 8 strings  per B function with zero overhead. We have 64 bytes per B function for metadata.
+
+What does our A frame look like?
+
+A terse space of 500 scrolls with 8 1K lines per scroll...
+
+So - if we embed and extract strings from the A frame directly...
+---
+
+Sun Sep 03 18:06:49 +0000 2023
+We could have our B methods collaborate on a terse space of 4 MB. Instead of allocating and de-allocating strings, we could simply operate on the portions of the terse space that make sense for our method.
+
+Example: building an email message.
+
+To: 
+From: 
+Subject: 
+Body:
+---
+
+Sun Sep 03 18:14:37 +0000 2023
+But, really, what we're doing is constructing a 1D buffer at the end of the day - why not just do it in place?
+
+Once I get terse support baked into LLVM, I'll start exploring this concept more...
+---
+
+Sun Sep 03 20:50:52 +0000 2023
+@0xVatnik @katmhuang Yeah, you're really not gonna like terse text... 11 dimensions ftw!
+---
+
+Sun Sep 03 23:12:01 +0000 2023
+@davidfowl Yes, that's how I feel about terse text!
+---
+
+Mon Sep 04 05:09:02 +0000 2023
+This is the sort of thing that terse text enables! https://t.co/uo45NKdYQZ
+---
+
+Mon Sep 04 05:13:59 +0000 2023
+@GarrettPetersen Easy: just annex the world, from North Korea.
+---
+
+Mon Sep 04 23:48:28 +0000 2023
+I love how people don't actually read. I cross posted an example of encoding the Odyssey in terse text, to showcase that there's no cost for the organization benefit.
+
+I mentioned that terse files compress more effectively than a zip archive and wandered into IBM terse territory.
+---
+
+Tue Sep 05 20:29:31 +0000 2023
+@cauchyfriend Easy: just hallucinate new forms of text:
+https://t.co/kWRVtgK4AE
+
+I'm reasonably convinced that much of what written language is missing is hierarchy. If you want to link ideas in a terse format, you need more than a line break.
+---
+
+Tue Sep 05 22:53:50 +0000 2023
+@BlaneWins There are also more applications of terse text. I created https://t.co/aprdrlTEl9 to explore them. I loved Choose Your Own Adventure books as a kid. Sites that offer the same experience these days are clogged with ads, which really detracts from the experience.
+---
+
+Wed Sep 06 00:11:38 +0000 2023
+@GarrettPetersen Chance of death from skimming Wikipedia:
+
+Atlantic: 50% - Winner!
+Titanic: 70%
+Empress of Ireland: 70%
+Lusitania: 62%
+---
+
+Wed Sep 06 19:31:18 +0000 2023
+@visakanv Terse text becomes widely adopted, validating my desire to contribute to society in a meaningful way.
+---
+
+Fri Sep 15 02:30:52 +0000 2023
+@PeterDiamandis Yes - expanding the surface of the human exocortex is going to usher in amazing improvements for society. I'm working on a text format to handle much faster uplink/downlink than we're used to: terse text.
+
+I need to rename it to disambiguate it from a 1980s IBM tech, though.
+---
+
+Sat Oct 14 04:57:55 +0000 2023
+I created a subreddit recently for multi-dimensional text - https://t.co/aprdrlTEl9. Apparently IBM has a terse text format from the 80s that name collides. I still like terse text, but I'm thinking of choosing a better name.
+---
+
+Tue Oct 17 03:33:57 +0000 2023
+I decided to rebrand Terse Text as #PHex tonight. #TractionalMondays
+
+Etymology:
+PHEX is a gene that encodes instructions for bones and teeth.  It's a fitting name because multi-dimensional text will be a backbone technology for the singularity.
+
+Precursor Hyper Text = PHex!
+---
+
+Thu Oct 26 05:05:37 +0000 2023
+@tsarnick Multi-dimensional text. I've been searching for a good name for it. I called it terse text at first, but apparently IBM used that name in the 80s.
+
+It's a way of implicitly numbering dimensional coordinates in an 11-dimension space.
+
+https://t.co/fsMVIE7BPA
+---
+
+Sun Nov 26 23:43:14 +0000 2023
+@deepfates I enjoy using phext for notes. I've only got a reference editor (terse notepad) so far, but it works well because phext is very fast to parse.
+---
+
+Thu Dec 21 05:01:01 +0000 2023
+@BEBischof I have a bunch of random github repositories. I'm working on a nicer web UI at the moment. The most functional editor is a C# app on Windows.
+
+https://t.co/2zEXazVEHr
+
+Using the reference editor, you can get a feel for phext (which I called terse initially).
+---
+
+Fri Dec 22 17:42:43 +0000 2023
+@GarrettPetersen @pachabelcanon The simplest way to know if society is becoming unhinged is to have hooks into every part of it. First-hand knowledge is way more reliable than second or third-hand knowledge.
+
+If you're paying someone for spying on their friends, you need to be sure where their loyalties are.
+---
+
+Mon Dec 25 03:13:13 +0000 2023
+@GarrettPetersen There is no charge for awesomeness, or attractiveness.
+---
+
+Fri Dec 29 08:22:00 +0000 2023
+https://t.co/3HxlysQ2Dx v3 is out!
+
+There's a new API service that provides access to phext documents. It's read-only for now - more to come!
+
+Terse Notepad vs https://t.co/3HxlysQ2Dx for the same file:
+
+https://t.co/fzcG8Wg0Tc
+
+https://t.co/AtuzrOB0cD https://t.co/I31csgYLEL
+---
+
+Wed Jan 03 07:07:51 +0000 2024
+@viemccoy It adversely affected my ability to think as well. The moment I decided to focus on 100-200 accounts...I felt a switch in my brain flip.
+
+I came up with phext about a year ago, but called it terse back then.
+---
+
+Sat Jan 20 15:25:08 +0000 2024
+@michaeldgrahams oh, there's also terse notepad (a compiled C# app)
+
+i still need to update it for my phext terminology though https://t.co/HaD2doQdO5
+---
+
+Thu Feb 08 06:07:29 +0000 2024
+feb 7 updates:
+- I rebranded Terse Notepad as Phext Notepad and streamlined coordinates with the newer syntax that I've invented since I last worked on it. Below is v0.2.3 vs 0.3.0.
+- OpenAI tinkering is too expensive! $0.05 per query!? https://t.co/m4GpS9M1Ta
+---
+
+Sat Feb 10 16:46:05 +0000 2024
+@GarrettPetersen local government is necessary
+region government is a necessary evil
+global government is cancer
+---
+
+Sat Sep 28 02:27:27 +0000 2024
+RT @JungleSilicon: what if you could build a deck of lenses to explore ideas?
+
+generate ideas at the intersection of lenses or get them to…
+---
+
+Fri Oct 04 04:53:53 +0000 2024
+@FiskQuaid @GarrettPetersen I worry about the diseases we don't know about yet. Once we live beyond 150, we'll be in uncharted territory - fighting millions of years of pre-programmed cell death.
+---
+
+Fri Oct 04 05:04:55 +0000 2024
+@FiskQuaid @GarrettPetersen Extreme by today's standards, sure.
+But vaccines were once a pipe-dream, too.
+
+My optimism in this area is derived primarily from the scale of modern computing - we're about to hit brain-scale (and beyond) at $1K price points.
+---
+
+Fri Apr 05 01:49:35 +0000 2013
+@zealousidler @GoTeamMegan Yes, there are...at least from corporate sponsors. Prior art: http://t.co/YLO5ZS6Zjo #TwitterSellOuts
+---
+
+Thu Aug 22 03:56:48 +0000 2013
+RT @danielpunkass: Mercurial fans are that HUGE intersection of people who admire great UI design and also insist on using a command-line V…
+---
+
+Fri Aug 30 15:42:47 +0000 2013
+Roundabout traffic notice for Lincoln, NE drivers who use the 14th &amp; Superior intersection: http://t.co/l4beidiSR5
+---
+
+Wed Apr 16 03:46:05 +0000 2014
+@writerSeth @YouTube The. Cold. Never. Bothered. Me. Anyway. I love it!
+---
+
+Sat May 23 22:58:14 +0000 2015
+RT @peterjhebert: “Biggest innovations of the 21st century will be at intersection of biology and technology. A new era is beginning.” http…
+---
+
